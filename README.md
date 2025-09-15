@@ -1,0 +1,1 @@
+In this program, we'll control a servo with an ultrasonic sensor. If an object comes within 10 cms of range, the servo stops spinning. This can be used in any rover that can detect obstacles and stop the rover, or start accordingly.
